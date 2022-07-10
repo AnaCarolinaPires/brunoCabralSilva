@@ -1,4 +1,4 @@
-## Saudações! Eu sou o Bruno Cabral, apaixonado por RPG e Nordeste, amante da tecnologia e estudante de Desenvolvimento Web na Trybe!
+# Saudações! Eu sou o Bruno Cabral, apaixonado por RPG e Nordeste, amante da tecnologia e estudante de Desenvolvimento Web na Trybe!
 
 <div align="left">
   <a href="https://github.com/brunoCabralSilva">
